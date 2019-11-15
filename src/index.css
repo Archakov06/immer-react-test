@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: system-ui;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+ol {
+  padding-left: 15px;
+}
+
+ol li {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-right: 10px;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.container {
+  width: 400px;
+  margin: 0 auto;
+}
